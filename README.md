@@ -1,49 +1,94 @@
 <div align="center">
 
-<img src="assets/portfolio-board.svg" width="100%" alt="Paras Patel vertical AI and ML engineering portfolio board with projects, technology stack, and current focus">
+<!-- HERO BANNER -->
+<img src="assets/hero.svg" width="100%" alt="Paras Patel — AI/ML Engineer"/>
 
-<br>
-
-<a href="mailto:paras160500@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/paras-patel-595600155"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/paras160500"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<!-- CLICKABLE SOCIAL PILLS -->
+<a href="mailto:paras160500@gmail.com">
+  <img src="https://img.shields.io/badge/%E2%9C%89_Email-paras160500%40gmail.com-FFFFFF?style=for-the-badge&labelColor=F8FAFC&color=E2E8F0&logoColor=0F172A" height="28" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/paras-patel-595600155">
+  <img src="https://img.shields.io/badge/in_LinkedIn-Paras_Patel-FFFFFF?style=for-the-badge&labelColor=0A66C2&color=E2E8F0" height="28" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/paras160500">
+  <img src="https://img.shields.io/badge/GitHub-paras160500-FFFFFF?style=for-the-badge&logo=github&logoColor=0F172A&labelColor=F8FAFC&color=E2E8F0" height="28" alt="GitHub"/>
+</a>
 
 </div>
 
-<br>
+<br/>
 
-## Repository links
-
-The portfolio board above is a visual overview. These links provide direct access to the implementation behind each project.
-
-### Featured systems
-
-- [Quorum — Adversarial Multi-Agent Deliberation for Financial Reasoning](https://github.com/paras160500/Quorum-Adversarial-Multi-Agent-Deliberation-for-Financial-Reasoning)
-- [WaveLength — Multi-Agent Orchestration with Tracing](https://github.com/paras160500/WaveLength-Multi-Agent-Orchestration-with-Tracing)
-- [NeuraVault — Multi-Tenant Enterprise RAG](https://github.com/paras160500/NeuraVault-Multi-Tenant-Enterprise-RAG-Platform-with-Secure-AI-Knowledge-Isolation)
-- [RAG Performance LAB](https://github.com/paras160500/RAG-Performance-LAB-FastAPI-React-Tailwind)
-- [MemForge — Semantic Memory Orchestration](https://github.com/paras160500/MemForge-Semantic-Memory-Orchestration-for-Token-Efficient-LLM-Inference)
-- [ExamNotes AI — MERN AI Exam Helper](https://github.com/paras160500/MERN-AI-Exam-Helper)
-
-### Additional systems
-
-- [ShopSmart — HyDE RAG E-commerce Platform](https://github.com/paras160500/HyDE-RAG-Ecommerce-Platfrom-with-Comparision-to-Standard-RAG)
-- [BankFlow Backend](https://github.com/paras160500/BankFlow-Backend)
-- [Transport Tracking Backend API](https://github.com/paras160500/Transport-Tracking-Backend-App-NodeJS)
-- [OmniDoc RAG](https://github.com/paras160500/OmniDoc-RAG-Advanced-Multimodal-Retrieval-Augmented-Generation)
-- [Frontier AI Product Researcher](https://github.com/paras160500/Frontier-AI-Product-Researcher-MAS-RAG)
-- [Live Recruiter Agent](https://github.com/paras160500/Live-Recruiter-Agent---Oracle-Cloud-MAS-RAG)
-- [MCP Web Scrapper](https://github.com/paras160500/MCP-Web-Scrapper-for-code-suggestions)
-- [DeepSeek Reasoning RAG](https://github.com/paras160500/DeepSeek_Reasoning_RAG)
-- [SQL Library Management](https://github.com/paras160500/SQL_Library_Management_Advance_Project)
-- [mindspace_AgenticAI](https://github.com/paras160500/mindspace_AgenticAI)
-
-<br>
+## `$ ls -la projects/ --sort=complexity`
 
 <div align="center">
 
-<a href="https://github.com/paras160500"><b>View all repositories →</b></a>
+<!-- FULL-WIDTH FEATURED PROJECT -->
+<a href="https://github.com/paras160500/mindspace_AgenticAI">
+  <img src="assets/card-mindspace.svg" width="100%" alt="mindspace_AgenticAI"/>
+</a>
+
+<br/><br/>
+
+<!-- 2x3 PROJECT CARDS (BORDERLESS SIDE-BY-SIDE) -->
+<a href="https://github.com/paras160500/OmniDoc-RAG-Advanced-Multimodal-Retrieval-Augmented-Generation">
+  <img src="assets/card-omnidoc.svg" width="49%" alt="OmniDoc RAG"/>
+</a>
+<a href="https://github.com/paras160500/Frontier-AI-Product-Researcher-MAS-RAG">
+  <img src="assets/card-frontier.svg" width="49%" alt="Frontier AI Product Researcher"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/paras160500/Live-Recruiter-Agent---Oracle-Cloud-MAS-RAG">
+  <img src="assets/card-recruiter.svg" width="49%" alt="Live Recruiter Agent"/>
+</a>
+<a href="https://github.com/paras160500/MCP-Web-Scrapper-for-code-suggestions">
+  <img src="assets/card-mcp.svg" width="49%" alt="MCP Web Scrapper"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/paras160500/DeepSeek_Reasoning_RAG">
+  <img src="assets/card-deepseek.svg" width="49%" alt="DeepSeek Reasoning RAG"/>
+</a>
+<a href="https://github.com/paras160500/SQL_Library_Management_Advance_Project">
+  <img src="assets/card-sql.svg" width="49%" alt="SQL Library Management"/>
+</a>
 
 </div>
 
-<!-- Keep assets/portfolio-board.svg beside this README. -->
+<br/>
+
+## `$ ls -la certifications/ --verified`
+
+<div align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Microsoft & IBM Professional Certifications"/>
+</div>
+
+<br/>
+
+## `$ cat stack.architecture`
+
+<div align="center">
+  <img src="assets/stack.svg" width="100%" alt="Tech Stack Architecture"/>
+</div>
+
+<br/>
+
+## `$ tail -f current.log`
+
+<div align="center">
+  <img src="assets/current-log.svg" width="100%" alt="Current Engineering Log"/>
+</div>
+
+<br/>
+
+## `GitHub Stats`
+
+<div align="center">
+  <img src="assets/footer.svg" width="100%" alt="GitHub Stats & Streak Tracker"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=paras160500&color=6366F1&style=flat-square&label=profile+views" alt="Profile Views"/>
+</div>
